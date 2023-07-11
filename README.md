@@ -8,7 +8,7 @@ To use it follow the following steps(do it in a code editor with python and sele
 ```
 pip install selenium
 ```
-2. Add the accounts to accounts_list.csv in Data folder under accounts heading, start adding accounts from line 2, writting one account on one row, don't use any symbols such as  "" or '' simply write the account name as a word
+2. Add the accounts to accounts_list.csv in Data folder under accounts heading, start adding accounts from line 2, writting one account on one row, don't use any symbols such as  __"__ or __'__ simply write the account name as a word
 3. Add your account username and password by modifying the value to USERNAME and PASSWORD variables at line 8 and 9 in the login_and_perform.py file, write your credentials under double quotes.
 
 <img width="296" alt="image" src="https://github.com/scienmanas/Insta-follower-bot/assets/99756067/815de6a1-3125-4d56-893b-28d37833edb4">
