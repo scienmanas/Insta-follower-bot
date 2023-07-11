@@ -17,4 +17,4 @@ pip install selenium
    <img width="516" alt="image" src="https://github.com/scienmanas/Insta-follower-bot/assets/99756067/6d71ebd0-160a-4a6f-a5cb-a843cefb4dc8">
 6. Run the main.py file.
 
-Note - Instagram restricts the following after some time when you don't stop pressing the follow buttonl. This bot cannot bypass that.
+> Note - Instagram restricts the following after some time when you don't stop pressing the follow buttonl. This bot cannot bypass that.
