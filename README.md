@@ -9,7 +9,10 @@ To use it follow the following steps(do it in a code editor with python and sele
 pip install selenium
 ```
 2. Add the accounts to accounts_list.csv in Data folder under accounts heading, start adding accounts from line 2, writting one account on one row, don't use any symbols such as  "" or '' simply write the account name as a word
-   
-3. If you get file not found error, copy the relative path of accounts.csv file and paste it in line 5 of main.py file
+3. Add your account username and password by modifying the value to USERNAME and PASSWORD variables at line 8 and 9 in the login_and_perform.py file, write your credentials under double quotes.
+
+<img width="296" alt="image" src="https://github.com/scienmanas/Insta-follower-bot/assets/99756067/815de6a1-3125-4d56-893b-28d37833edb4">
+
+4. If you get file not found error, copy the relative path of accounts.csv file and paste it in line 5 of main.py file=
    <img width="516" alt="image" src="https://github.com/scienmanas/Insta-follower-bot/assets/99756067/6d71ebd0-160a-4a6f-a5cb-a843cefb4dc8">
-4. Run the main.py file.
+6. Run the main.py file.
