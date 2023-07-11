@@ -34,7 +34,7 @@ class Login() :
         self.dialog = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, '_aano')))
         self.start = 0
         try :
-            for vev in range(3) :
+            while True :
                 f_buttons = self.driver.find_elements(By.CSS_SELECTOR, 'div._aano button._acan._acap._acas._aj1-')
                 self.length = len(f_buttons)
                 for i in range(self.start,self.length):
