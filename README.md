@@ -16,3 +16,5 @@ pip install selenium
 4. If you get file not found error, copy the relative path of accounts.csv file and paste it in line 5 of main.py file.
    <img width="516" alt="image" src="https://github.com/scienmanas/Insta-follower-bot/assets/99756067/6d71ebd0-160a-4a6f-a5cb-a843cefb4dc8">
 6. Run the main.py file.
+
+Note - Instagram restricts the following after some time when you don't stop pressing the follow buttonl. This bot cannot bypass that.
