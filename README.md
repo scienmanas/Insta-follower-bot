@@ -13,6 +13,6 @@ pip install selenium
 
 <img width="296" alt="image" src="https://github.com/scienmanas/Insta-follower-bot/assets/99756067/815de6a1-3125-4d56-893b-28d37833edb4">
 
-4. If you get file not found error, copy the relative path of accounts.csv file and paste it in line 5 of main.py file=
+4. If you get file not found error, copy the relative path of accounts.csv file and paste it in line 5 of main.py file.
    <img width="516" alt="image" src="https://github.com/scienmanas/Insta-follower-bot/assets/99756067/6d71ebd0-160a-4a6f-a5cb-a843cefb4dc8">
 6. Run the main.py file.
